@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 //Iniciar variables
 
 var app = express();
+paraborrar;
 
 
 // Body parser

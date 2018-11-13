@@ -3,6 +3,7 @@ var bcrypt = require('bcryptjs');
 var jwt = require('jsonwebtoken');
 
 var SEED = require('../config/config').SEED;
+paraborrar;
 
 var app = express();
 
